@@ -1,2 +1,3 @@
 # code-for-vex
-An archive of all of the code I wrote in my robotics club for VEX Robots (Competitions and Self experiments)
+An archive of all of the code I wrote in my robotics club for VEX Robots. These programmes were either for competition purposes or research purposes. I started using the vexcode API first before I started to experiment and use the PROS API. This repository features more than 10 drafts of code for Spin Up in `VEXCODE` and attempted odometry in `PROS`.<br>
+*Odometry is the use of data from encoders/rotation sensors or motion sensors to estimate the change in position over time, it is often used in robotics to determine a robot’s position relative to a known starting location.
